@@ -1,0 +1,17 @@
+{
+    "name": "arrestegui/banco_de_preguntas",
+    "description": "Sistema para gestionar preguntas de examen.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arrestegui\\BancoDePreguntas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yelts2002",
+            "email": "yarresteguit20_1@unc.edu.pe"
+        }
+    ],
+    "require": {}
+}
